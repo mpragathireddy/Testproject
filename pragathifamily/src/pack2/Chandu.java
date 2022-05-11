@@ -6,7 +6,7 @@ void add(){
 	int b=50;
 	int t=a+b;
 	System.out.println(t);
-	int d=40;
+	int d=50;
 }
 void sub() {
 	int a=50;
